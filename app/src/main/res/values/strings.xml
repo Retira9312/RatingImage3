@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RatingImage1</string>
+    <string name="edit_message" translatable="false">Enter your text here</string>
+    <string name="button_send">GO!</string>
+</resources>
